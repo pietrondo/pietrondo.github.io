@@ -472,9 +472,6 @@ header.masthead .intro-text .intro-heading {
   border-left-width: 0;
 }
 
-.timeline > li:last-child {
-  margin-bottom: 0;
-}
 
 .timeline .timeline-heading h4 {
   margin-top: 0;
